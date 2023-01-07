@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/AlexKrysov" target="_blank">Alex</a> 
+<h1 align="left">Hi there, I'm <a href="https://github.com/AlexKrysov" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA Engineer from Russia
+<h3 align="left">QA Engineer from Russia
 <img src="https://github.com/AlexKrysov/AlexKrysov/blob/main/icons/ru.png" height="20"/></h3>
 
 <!--
