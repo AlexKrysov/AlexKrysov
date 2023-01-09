@@ -9,5 +9,5 @@
 
 | Java | Selenide | Gradle | Junit5 |  Jenkins | Allure Report | Allure Testops | IntelliJ IDEA |
 |:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
-|![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](../AlexKrysov/icons/Gradle.png) | ![JUnit5](../AlexKrysov/icons/JUnit5.png) |  ![Jenkins](../AlexKrysov/icons/Jenkins.png) | ![Allure Report](../AlexKrysov/icons/Allure_Report.png) | ![AllureTestOps](../AlexKrysov/icons/AllureTestOps.png) | ![Intelij_IDEA](../AlexKrysov/icons/Intelij_IDEA.png) |
+|![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
 
