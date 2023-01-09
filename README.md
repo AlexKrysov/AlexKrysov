@@ -3,7 +3,7 @@
 <h3 align="left">QA Engineer from Russia <img src="https://github.com/AlexKrysov/AlexKrysov/blob/main/icons/ru.png" height="20"/>
 </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKrysov)](https://github.com/AlexKrysov/github-readme-stats)
 
 ### My technology stack is:
 
