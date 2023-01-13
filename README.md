@@ -27,3 +27,15 @@ Here are some ideas to get you started:
 |:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
 |![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
 
+### My latest project:
+
+### ***UI tests:***
+
+#### - [Автотесты для 'byndyusoft'](https://github.com/AlexKrysov/byndyusoft_tests)
+
+### You can find me on:
+
++  [Telegram](https://t.me/KrysovAlex)
++ Email - krysov-95@mail.ru
+
+_Thank you for your attention_
