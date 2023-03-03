@@ -23,15 +23,21 @@ Here are some ideas to get you started:
 
 ### My technology stack is:
 
-| Java | Selenide | Gradle | Junit5 |  Jenkins | Allure Report | Allure Testops | IntelliJ IDEA |
-|:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
-|![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
+| Java | Selenide | Gradle | Junit5 | REST Assured | Jenkins | Allure Report | Allure Testops | IntelliJ IDEA |
+|:------:|:----:|:------:|:------:|:--------:|:-------------:|:---------:|:---------:|:--------:|
+|![Java](../AlexKrysov/icons/Java.png)| ![Selenide](../AlexKrysov/icons/Selenide.png) | ![Gradle](../AlexKrysov/icons/Gradle.png) | ![JUnit5](../AlexKrysov/icons/JUnit5.png) | ![Rest-Assured](../AlexKrysov/icons/Rest-Assured.png) | ![Jenkins](../AlexKrysov/icons/Jenkins.png) | ![Allure Report](../AlexKrysov/icons/Allure_Report.png) | ![AllureTestOps](../AlexKrysov/icons/AllureTestOps.png) | ![Intelij_IDEA](../AlexKrysov/icons/Intelij_IDEA.png) |
 
 ### My latest project:
 
 ### ***UI tests:***
 
-#### - [Автотесты для 'byndyusoft'](https://github.com/AlexKrysov/byndyusoft_tests)
+#### - [Автотесты для магазина '34PLAY'](https://github.com/AlexKrysov/byndyusoft_tests)
+### ***API tests:***
+
+#### - [Автотесты для платформы 'PetStore'](https://github.com/AlexKrysov/petstore_krysov)
+### ***Mobile tests:***
+
+#### - [Автотесты для приложения 'Wikipedia'](https://github.com/AlexKrysov/hw22_mobile_part2)
 
 ### You can find me on:
 
