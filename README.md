@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### ***UI tests:***
 
-#### - [Автотесты для магазина '34PLAY'](https://github.com/AlexKrysov/byndyusoft_tests)
+#### - [Автотесты для магазина '34PLAY'](https://github.com/AlexKrysov/34play)
 ### ***API tests:***
 
 #### - [Автотесты для платформы 'PetStore'](https://github.com/AlexKrysov/petstore_krysov)
