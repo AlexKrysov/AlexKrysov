@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ### ***UI tests:***
 
 #### - [Автотесты для магазина '34PLAY'](https://github.com/AlexKrysov/34play)
+#### - [Автотесты для 'Digital Design'](https://github.com/AlexKrysov/Krysov_Digital_Design)
 ### ***API tests:***
 
 #### - [Автотесты для платформы 'PetStore'](https://github.com/AlexKrysov/petstore_krysov)
