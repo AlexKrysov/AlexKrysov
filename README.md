@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 #### - [Автотесты для магазина '34PLAY'](https://github.com/AlexKrysov/34play)
 #### - [Автотесты для 'Digital Design'](https://github.com/AlexKrysov/Krysov_Digital_Design)
 #### - [Автотесты для 'СтандартПроект'](https://github.com/AlexKrysov/krysov_stdpr)
+#### - [Автотесты для 'Performance lab'](https://github.com/AlexKrysov/kryso_performance_lab)
 ### ***API tests:***
 
 #### - [Автотесты для платформы 'PetStore'](https://github.com/AlexKrysov/petstore_krysov)
